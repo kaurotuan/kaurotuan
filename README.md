@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kaurotuan
+- 👀 I’m interested in php, mysql and wordpress
+- 🌱 I’m currently learning flutter and digital robots
+- 💞️ I’m looking to collaborate on time and cost reduction projects 
+- 📫 How to reach me? juniorsantanadf@gmail.com
